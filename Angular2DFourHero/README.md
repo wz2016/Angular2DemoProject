@@ -4,7 +4,7 @@ This is a practise project for understand the Component, template, and metadata 
 
 ## Getting Started
 
-Download the project and change the current direction to the project
+Download the project and change the current direction to the project (all the dependency )
 
 run the project 
 ```

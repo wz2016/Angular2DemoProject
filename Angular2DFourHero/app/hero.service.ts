@@ -1,10 +1,9 @@
 /**
  * Created by weilunzhao on 11/29/16.
  */
-import { Injectable }from '@angular/core';
+import { Injectable } from '@angular/core';
 import { Hero } from './hero';
-// import { HEROES } from './mock-heroes';
-import {Injectable} from '@angular/core';
+
 import {Headers, Http}  from '@angular/http';
 
 import 'rxjs/add/operator/toPromise';
