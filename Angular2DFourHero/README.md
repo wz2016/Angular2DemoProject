@@ -1,3 +1,3 @@
 # Angular 2 Demo project
 
-This is practise project for understand the Component, tmolates, metadata for the angular2
+This is a practise project for understand the Component, template, and metadata for the angular2
